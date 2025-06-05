@@ -28,35 +28,21 @@ A aplicação segue o paradigma da programação orientada a objetos e é constr
 - [ ] ROOT
     - [x] Exibir opçõe do MENU - JÚLIA
     - [x] Validar as entradas do _path_ - JÚLIA
-    - [ ] Operações da biblioteca (classe `Library`) - HEITOR
+    - [X] Operações da biblioteca (classe `Library`) - HEITOR
     - [x] Alterar o estado e validar fluxo do loop - JÚLIA
  - [ ] DIRECTORY
     - [x] Exibir opçõe do MENU - JÚLIA
     - [x] Validar as entradas do _path_ - JÚLIA
-    - [ ] Operações dos arquivos (classe `File`)  - MARCOS
+    - [x] Operações dos arquivos (classe `File`)  - MARCOS
     - [x] Alterar o estado e validar fluxo do loop - JÚLIA
 - [x] DELETE - JÚLIA
 - [x] QUITTING - JÚLIA
 
-## 📁 Estrutura de Pastas - DESATUALIZADO
-```
-Gerenciador_Arquivos/
-├── src/                # Código-fonte em Java
-│   ├── app/            # Ponto de entrada e loop principal
-│   ├── core/           # Lógica de negócio (biblioteca, entradas, persistência)
-│   ├── menu/           # Menu textual interativo
-│   └── utils/          # Funções auxiliares (como cópia de arquivos)
-├── data/               # Arquivo config.txt com caminho da biblioteca ativa
-├── build/              # Arquivos compilados .class
-├── README.md           # Este arquivo
-├── run.sh              # Script para compilar e rodar
-└── .gitignore          # Arquivos a serem ignorados no Git
-```
 
-## ⚙️ Como Compilar e Executar -DESATUALIZADO
+```
+## ⚙️ Como Compilar e Executar
 
 ### Pré-requisitos
-- Java 11 ou superior instalado
 - Terminal com acesso a comandos `javac` e `java`
 
 ### 1. Compilar
