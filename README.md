@@ -25,15 +25,15 @@ A aplicação segue o paradigma da programação orientada a objetos e é constr
     - [x] Validar as entradas do _path_ - JÚLIA
     - [x] Instânciar um novo objeto `Library` e seus arquivos. - HEITOR
     - [x] Alterar o estado e validar fluxo do loop - JÚLIA
-- [ ] ROOT
+- [x] ROOT
     - [x] Exibir opçõe do MENU - JÚLIA
     - [x] Validar as entradas do _path_ - JÚLIA
-    - [ ] Operações da biblioteca (classe `Library`) - HEITOR
+    - [x] Operações da biblioteca (classe `Library`) - HEITOR
     - [x] Alterar o estado e validar fluxo do loop - JÚLIA
- - [ ] DIRECTORY
+ - [x] DIRECTORY
     - [x] Exibir opçõe do MENU - JÚLIA
     - [x] Validar as entradas do _path_ - JÚLIA
-    - [ ] Operações dos arquivos (classe `File`)  - MARCOS
+    - [x] Operações dos arquivos (classe `File`)  - MARCOS
     - [x] Alterar o estado e validar fluxo do loop - JÚLIA
 - [x] DELETE - JÚLIA
 - [x] QUITTING - JÚLIA
